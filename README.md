@@ -29,7 +29,10 @@ If not using the official ESX Framework version we can not guarantee that the sc
 
 2. If having more statuses than default:
 - Make sure to add Icon in Config.lua. Make sure to use the [MDI Icons](https://pictogrammers.com/library/mdi/, "MDI Icons")
-- Make sure to add to Locales.lua ["status"]-keys
+![alt text](https://cdn.discordapp.com/attachments/1063025092663185429/1084173516158541834/image.png)
+
+- Make sure to add to Locales.lua ["status"]-keys at all languages
+![alt text](https://cdn.discordapp.com/attachments/1063025092663185429/1084173054738972693/image.png)
 
 
 ## FAQ
